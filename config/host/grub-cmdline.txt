@@ -1,0 +1,1 @@
+GRUB_CMDLINE_LINUX_DEFAULT="quiet iommu=pt video=efifb:off,vesafb:off initcall_blacklist=sysfb_init pcie_aspm=off"

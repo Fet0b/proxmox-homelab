@@ -1,0 +1,12 @@
+*.tfstate
+*.tfstate.*
+*.tfplan
+.terraform/
+*.env
+!*.env.example
+*.pem
+*.key
+*.tfvars
+.env*
+!*.env.example
+id_rsa*
